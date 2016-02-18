@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application Portfolio</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">My App Portfolio</string>
+    <string name="main_label">My Nanodegree Apps!</string>
+    <string name="button1_label">POPULAR MOVIES APP: STAGE 1 </string>
+    <string name="button2_label">POPULAR MOVIES APP: STAGE 2</string>
+    <string name="button3_label">SCORES APP</string>
+    <string name="button4_label">BUILD IT BIGGER</string>
+    <string name="button5_label">MATERIAL APP</string>
+    <string name="button6_label">CAPSTONE: MY OWN APP</string>
+    <string name="button1_toastMessage">This button will launch my Popular Movies app: Stage 1!</string>
+    <string name="button2_toastMessage">This button will launch my Popular Movies app: Stage 2!</string>
+    <string name="button3_toastMessage">This button will launch my Scores app!</string>
+    <string name="button4_toastMessage">This button will launch my Build it bigger app!</string>
+    <string name="button5_toastMessage">This button will launch my Material app!</string>
+    <string name="button6_toastMessage">This button will launch my Capstone app!</string>
+</resources>
